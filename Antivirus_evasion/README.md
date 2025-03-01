@@ -17,17 +17,7 @@ This tool is designed to obfuscate Metasploit payloads using AES-256 encryption.
 - `pycryptodome` library (for AES encryption/decryption)
 - Metasploit Framework (for generating payloads)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/aes-payload-obfuscation.git
-   cd aes-payload-obfuscation
-   ```
 
-2. Install the required Python library:
-   ```bash
-   pip install pycryptodome
-   ```
 
 ## Usage
 
