@@ -1,4 +1,4 @@
-Here’s an example of a `README.md` file for your GitHub repository that explains the usage of the AES-256 payload obfuscation tool. This file provides clear instructions for setting up, encrypting payloads, and using the stager.
+
 
 ---
 
